@@ -1,5 +1,4 @@
 //Brianna Norton
-//arrow keeys etch a sketch
 //int rand = int(random(2));
 //    if (rand == 0) {
 //      rock = loadImage(".png");
@@ -10,8 +9,6 @@
 //  }
 //running (timer how long they live) high score they lived for stays
 //faster as it goes
-//particles as bubbles
-//attach image to moving thing
 //make fish apear less
 Fish bob;
 //Button[] numButtons = new Button[2];
