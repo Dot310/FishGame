@@ -12,7 +12,7 @@ Jules - Design for start, background, and end screen.
 
 Prieston - Helped with code w/ move method.
 
-Tonah - Helped with code w/ enemies.
+Kainoa - Helped with code w/ enemies.
 
 
 [Game Pictures](https://github.com/Dot310/FishGame/tree/main/images)
