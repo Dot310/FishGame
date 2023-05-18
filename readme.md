@@ -9,8 +9,8 @@ Jules - Design for start, background, and end screen.
 Prieston - Helped with code.
 Tonah - Helped with code.
 
-![Images](https://github.com/Dot310/FishGame/tree/main/images)
+[Images](https://github.com/Dot310/FishGame/tree/main/images)
 
-![SRC](https://github.com/Dot310/FishGame/tree/main/src)
+[SRC](https://github.com/Dot310/FishGame/tree/main/src)
 
 
