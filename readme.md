@@ -19,4 +19,8 @@ Tonah - Helped with code.
 
 [SRC](https://github.com/Dot310/FishGame/tree/main/src)
 
+![Start](https://github.com/Dot310/FishGame/blob/main/images/Start.png)
+
 ![Game](https://github.com/Dot310/FishGame/blob/main/images/Game.png)
+
+![End](https://github.com/Dot310/FishGame/blob/main/images/End.png)
