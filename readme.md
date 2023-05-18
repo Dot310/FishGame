@@ -19,4 +19,4 @@ Tonah - Helped with code.
 
 [SRC](https://github.com/Dot310/FishGame/tree/main/src)
 
-
+![Game](https://github.com/Dot310/FishGame/blob/main/images/Game.png)
