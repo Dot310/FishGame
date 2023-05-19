@@ -4,7 +4,7 @@ our game is based on the google dino game it will almost be the same mechanic th
 ## Developers
 Brianna - Main code, created the code.
 
-Cora - Disigned fish and enemies along with bubbles. Helped Jules with design.
+Cora - Desighned fish and enemies along with bubbles. Dishned the start and end screen. Helped Jules with design.
 
 Kalyis - Helped with bugs and fixes. Monitored our progress, leader.
 
