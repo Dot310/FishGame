@@ -24,3 +24,5 @@ Kainoa - Helped with code w/ enemies.
 ![Game](https://github.com/Dot310/FishGame/blob/main/images/Game.png)
 
 ![End](https://github.com/Dot310/FishGame/blob/main/images/End.png)
+
+![gif](https://github.com/Dot310/FishGame/blob/main/images/clouds.gif?raw=true)
